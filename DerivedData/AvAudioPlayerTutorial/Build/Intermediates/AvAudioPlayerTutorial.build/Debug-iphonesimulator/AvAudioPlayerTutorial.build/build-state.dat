@@ -1,0 +1,382 @@
+TAvAudioPlayerTutorial
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist
+cProcessPCH /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial normal i386
+cGenerateDSYMFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+cCopyStringsFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/InfoPlist.strings AvAudioPlayerTutorial/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib
+cCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib
+cCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib
+cCpResource AvAudioPlayerTutorial/audio.mp3 DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp3
+cTouch /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E5F8A0F0000000000000110
+t1314884111
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D93ED2500000000001340C0
+t1301540133
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004D93ED1E00000000000012F8
+t1301540126
+s4856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004D99FC72000000000003E070
+t1301937266
+s254064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch
+c000000004E89D39E000000000000015C
+t1317655454
+s348
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.h
+c000000004E89D8AF00000000000002E3
+t1317656751
+s739
+i<UIKit/UIKit.h>
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m
+c000000004E89D8F60000000000000B0A
+t1317656822
+s2826
+i"AvAudioPlayerTutorialAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib
+c000000004E89D7D0000000000000423C
+t1317656528
+s16956
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.h
+c000000004E89D8FD0000000000000321
+t1317656829
+s801
+i<UIKit/UIKit.h>
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m
+c000000004E89D9000000000000000570
+t1317656832
+s1392
+i"FlipsideViewController.h"
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib
+c000000004E89DCC10000000000003A15
+t1317657793
+s14869
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.h
+c000000004E89DB3C0000000000000340
+t1317657404
+s832
+i<AVFoundation/AVAudioPlayer.h>
+i"FlipsideViewController.h"
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m
+c000000004E89DB380000000000000923
+t1317657400
+s2339
+i"MainViewController.h"
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/audio.mp3
+c000000004E896B1B0000000000917112
+t1317628699
+s9531666
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/InfoPlist.strings
+c000000004E89D39E000000000000002D
+t1317655454
+s45
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib
+c000000004E89D39E00000000000050C0
+t1317655454
+s20672
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m
+c000000004E89D39E0000000000000163
+t1317655454
+s355
+i<UIKit/UIKit.h>
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorial.LinkFileList
+c000000004E89DCC80000000000000364
+t1317657800
+s868
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/FlipsideView.nib
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/MainView.nib
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/PkgInfo
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp3
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/MainWindow.nib
+t2
+s0
+
+NAvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist
+c000000004E89D3A50000000000000432
+t1317655461
+s1074
+
+CBuild AST from /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m
+r0
+
+CBuild AST from /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m
+r0
+
+CBuild AST from /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m
+r0
+
+CBuild AST from /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies90322a42143ab441^e9d5f448143ab441^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339350606.754759
+e339350607.497670
+r1
+xCompileC
+xDerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m1058c14e143ab441^77657f4f143ab441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m0000000000000000^3067"CompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-generated-files.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-project-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/include -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources/i386 -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -include /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch -c /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorialAppDelegate.m -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorialAppDelegate.o
+
+CCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339350607.618715
+e339350607.720452
+r1
+xCompileC
+xDerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.mdb859e4f143ab441^d07eb84f143ab441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m0000000000000000^3027"CompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o AvAudioPlayerTutorial/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-generated-files.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-project-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/include -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources/i386 -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -include /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch -c /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideViewController.m -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/FlipsideViewController.o
+
+CCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339350607.499046
+e339350607.617295
+r1
+xCompileC
+xDerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.md6e27f4f143ab441^68059e4f143ab441^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m0000000000000000^3011"CompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o AvAudioPlayerTutorial/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-generated-files.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-project-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/include -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources/i386 -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -include /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch -c /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainViewController.m -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/MainViewController.o
+
+CCompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339350606.753804
+e339350607.489570
+r1
+xCompileC
+xDerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.mfb1ec14e143ab441^d2527d4f143ab441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m0000000000000000^2955"CompileC DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o AvAudioPlayerTutorial/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-generated-files.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-project-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/include -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources/i386 -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -include /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch -c /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/main.m -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib
+s339350610.544767
+e339350610.674970
+r1
+xCompileXIB
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xibce8b8b52143ab441^88d8ac52143ab441^-252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib0000000000000000^724"CompileXIB AvAudioPlayerTutorial/FlipsideView.xib    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/FlipsideView.nib /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib
+s339350610.369829
+e339350610.543472
+r1
+xCompileXIB
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib01c35e52143ab441^982f8b52143ab441^-84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib0000000000000000^712"CompileXIB AvAudioPlayerTutorial/MainView.xib    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/MainView.nib /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib
+s339350609.071751
+e339350610.368488
+r1
+xCompileXIB
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib4b781251143ab441^f5645e52143ab441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib0000000000000000^745"CompileXIB AvAudioPlayerTutorial/en.lproj/MainWindow.xib    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/MainWindow.nib /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/InfoPlist.strings AvAudioPlayerTutorial/en.lproj/InfoPlist.strings
+s339350609.046519
+e339350609.070287
+r1
+xCopyStringsFile
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/InfoPlist.strings
+xAvAudioPlayerTutorial/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy AvAudioPlayerTutorial/en.lproj/InfoPlist.strings6b490f51143ab441^dffd1151143ab441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/en.lproj/InfoPlist.strings0000000000000000^661"CopyStringsFile DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj/InfoPlist.strings AvAudioPlayerTutorial/en.lproj/InfoPlist.strings    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/en.lproj -- AvAudioPlayerTutorial/en.lproj/InfoPlist.strings
+
+CCpResource AvAudioPlayerTutorial/audio.mp3 DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp3
+s339350610.676271
+e339350611.099973
+r1
+xCpResource
+xAvAudioPlayerTutorial/audio.mp3
+xDerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp3
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp32239ad52143ab441^74961953143ab441^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp300f4302adeffdf42^645"CpResource AvAudioPlayerTutorial/audio.mp3 DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/audio.mp3    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/audio.mp3 /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+
+CGenerateDSYMFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+s339350608.926122
+e339350609.038313
+r1
+xGenerateDSYMFile
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Generating /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM232ded50143ab441^2dcd0951143ab441^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM00f4302adeffdf42^761"GenerateDSYMFile DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app.dSYM
+
+CLd /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial normal i386
+s339350607.727359
+e339350608.919177
+r1
+xLd
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Link /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorialda53ba4f143ab441^014eeb50143ab441^---0#0#0#--1345"Ld DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial normal i386    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -filelist /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/Objects-normal/i386/AvAudioPlayerTutorial.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework AVFoundation -framework iAd -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/AvAudioPlayerTutorial
+
+CProcessInfoPlistFile /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist
+s339350600.962466
+e339350601.035990
+r1
+xProcessInfoPlistFile
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist
+xAvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist207ef648143ab441^29ce1149143ab441^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist0000000000000000^825"ProcessInfoPlistFile DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AvAudioPlayerTutorial/AvAudioPlayerTutorial-Info.plist -genpkginfo /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app/Info.plist
+
+CProcessPCH /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s339350601.044302
+e339350606.746058
+r1
+xProcessPCH
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch
+xAvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pchbc780b49143ab441^7710bf4e143ab441^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch0000000000000000^2804"ProcessPCH DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-generated-files.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/AvAudioPlayerTutorial-project-headers.hmap -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/include -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources/i386 -I/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Intermediates/AvAudioPlayerTutorial.build/Debug-iphonesimulator/AvAudioPlayerTutorial.build/DerivedSources -F/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator -c /Users/Admin/Desktop/AvAudioPlayerTutorial/AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch -o /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-fywluitqkocbewhdmjowmecvywvu/AvAudioPlayerTutorial-Prefix.pch.gch
+
+CProcessPCH /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Index/PrecompiledHeaders/AvAudioPlayerTutorial-Prefix-gkzfbcjnvasdckgsuxoaycvvcrhb_ast/AvAudioPlayerTutorial-Prefix.pch.pth AvAudioPlayerTutorial/AvAudioPlayerTutorial-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+s339350611.107829
+e339350611.308662
+r1
+xTouch
+x/Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Touch /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app9fad1b53143ab441^6d034f53143ab441^---0#0#0#--446"Touch DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app    cd /Users/Admin/Desktop/AvAudioPlayerTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Admin/Desktop/AvAudioPlayerTutorial/DerivedData/AvAudioPlayerTutorial/Build/Products/Debug-iphonesimulator/AvAudioPlayerTutorial.app
+
